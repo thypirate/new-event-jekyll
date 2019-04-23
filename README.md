@@ -11,7 +11,7 @@ You can either:
 * Download, Fork or Clone on Github.
 
 ## How to use
-* You can edit and add new entries in the ```_config.yml``` to suit your needs.
+* You can edit and add new entries like Google Analytics, Jekyll plugins in the ```_config.yml``` to suit your needs.
 
 ## Build
 While in the root of you project/site there are two commands you can use to build:
